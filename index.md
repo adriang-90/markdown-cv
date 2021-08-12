@@ -10,21 +10,29 @@ title: CV
 </div>
 
 
-## Currently
-
+## Dane osobowe i kontaktowe
+---
 Standing on the shoulders of giants
 
-### Specialized in
-
+## Podsumowanie zawodowe
+---
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
-
+## Umiejętności techniczne
+---
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-
+## Szkolenia
+---
+## Kursy
+---
+## Certyfikaty
+---
+## Wykształcenie
+---
 ## Education
+---
 
 `1654-1660`
 __The King's School, Grantham.__
