@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: My CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adrian Gąsior
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="agasior90@gmail.com">agasior90@gmail.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">agasior.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+
 
 ### Specialized in
 
